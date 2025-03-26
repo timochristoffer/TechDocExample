@@ -1,4 +1,4 @@
-# Documentation for: DOC System
+# Documentation for: DOC System V2
 
 ---
 
@@ -8,6 +8,6 @@ test of lower case
 
 ---
 
-**Introduction to Doc Example**
+**Introduction to Doc Example V2**
 
-Second Example of a description for Doc Example
+Second Example of a description for Doc Example v2
